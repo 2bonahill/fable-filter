@@ -11,5 +11,5 @@ Fable Filter is a tool designed to analyze and categorize textual data, specific
 - NLP-powered analysis: Leverages Natural Language Processing for accurate results (TF-IDF, LSTMs and DistilBERT)
 
 ## Data Source
-- Fake News Corpus by [Maciej Szpakowski]([https://www.google.com](https://github.com/several27).
+- Fake News Corpus by [Maciej Szpakowski](https://github.com/several27).
 - Link to Repo: [https://github.com/several27/FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus)
