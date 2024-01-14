@@ -12,4 +12,4 @@ Fable Filter is a tool designed to analyze and categorize textual data, specific
 
 ## Data Source
 - Fake News Corpus by [Maciej Szpakowski]([https://www.google.com](https://github.com/several27).
-- Link to Repo: [](https://github.com/several27/FakeNewsCorpus)
+- Link to Repo: [https://github.com/several27/FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus)
